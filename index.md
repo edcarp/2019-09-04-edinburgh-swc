@@ -190,6 +190,16 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<p>
+  <strong>Registration:</strong>
+  <a href="https://2019-09-04-edinburgh-swc.eventbrite.co.uk">Please register</a>
+  if you would like to attend. All available places have already been filled up,
+  however we recommend adding yourself to the waiting list if you are still interested
+  in attending as we anticipate some attendees will cancel. If you have registered
+  and cannot now attend, please cancel your booking so that your place can be offered
+  to someone on the waiting list.
+</p>
+
 <hr/>
 
 {% comment %} 
