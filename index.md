@@ -57,6 +57,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<p id="collaborative_notes">
+  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+</p>
 
 <h2 id="general">General Information</h2>
 
